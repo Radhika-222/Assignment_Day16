@@ -1,0 +1,7 @@
+E:\Mphasis\Day16\Assignment\AssignmentPart1_Day16\AssignmentPart1_Day16\bin\Debug\AssignmentPart1_Day16.exe.config
+E:\Mphasis\Day16\Assignment\AssignmentPart1_Day16\AssignmentPart1_Day16\bin\Debug\AssignmentPart1_Day16.exe
+E:\Mphasis\Day16\Assignment\AssignmentPart1_Day16\AssignmentPart1_Day16\bin\Debug\AssignmentPart1_Day16.pdb
+E:\Mphasis\Day16\Assignment\AssignmentPart1_Day16\AssignmentPart1_Day16\obj\Debug\AssignmentPart1_Day16.csproj.AssemblyReference.cache
+E:\Mphasis\Day16\Assignment\AssignmentPart1_Day16\AssignmentPart1_Day16\obj\Debug\AssignmentPart1_Day16.csproj.CoreCompileInputs.cache
+E:\Mphasis\Day16\Assignment\AssignmentPart1_Day16\AssignmentPart1_Day16\obj\Debug\AssignmentPart1_Day16.exe
+E:\Mphasis\Day16\Assignment\AssignmentPart1_Day16\AssignmentPart1_Day16\obj\Debug\AssignmentPart1_Day16.pdb
